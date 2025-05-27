@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 :computer: **Estudiante de tecnología en desarrollo de software en UNAD**
+
 :oncoming_automobile: **Especialista en servicio posventa automotriz**
 
 ### Canales de contacto
