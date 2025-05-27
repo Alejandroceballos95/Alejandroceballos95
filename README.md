@@ -1,11 +1,17 @@
-## Hi there 👋
+# 👋 Hi there! I'm Alejandro Ceballos
 
-:computer: **Estudiante de tecnología en desarrollo de software en UNAD**
+🚗 **After-Sales Automotive Service Specialist**  
+💻 **Software Development Technology Student - UNAD**  
 
-:oncoming_automobile: **Especialista en servicio posventa automotriz**
+I'm passionate about innovation and continuous improvement. I combine my experience in the automotive sector with my training in software development to create practical and efficient solutions. I'm always open to learning, collaborating, and adding value to every project.
 
-### Canales de contacto
+---
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ceballos-sector-automotriz%2F)
+## 📫 Let's Connect!
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Alejandroceballos95/Alejandroceballos95)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alejandro-ceballos-sector-automotriz/)  
+- 💬 Discord: alejandroceballos1995  
+
+---
+
+Thanks for stopping by. Talk soon! 🚀
